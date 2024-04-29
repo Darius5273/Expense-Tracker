@@ -41,7 +41,6 @@ The Expense Tracker App is a comprehensive application built using .NET Framewor
 - Entity Framework
 - HTML/CSS
 - JavaScript
-- Charting libraries (e.g., Chart.js, Google Charts)
 
 ## Screenshots
 
